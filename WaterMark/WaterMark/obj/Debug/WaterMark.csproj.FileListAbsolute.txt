@@ -1,0 +1,15 @@
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\WaterMark.csproj.CoreCompileInputs.cache
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\WaterMark.csproj.CopyComplete
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Vesoft\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\bin\Debug\WaterMark.exe.config
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\bin\Debug\WaterMark.exe
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\bin\Debug\WaterMark.pdb
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\obj\Debug\WaterMark.csproj.CoreCompileInputs.cache
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\obj\Debug\WaterMark.exe
+C:\Users\Vesoft\Desktop\WaterMark\WaterMark\obj\Debug\WaterMark.pdb
