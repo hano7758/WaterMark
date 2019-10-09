@@ -6,7 +6,7 @@ namespace WaterMark
     {
         static void Main(string[] args)
         {
-            WaterMark.AddWaterMark(@"D:\20.jpg", @"D:\WaterMark");
+            WaterMark.AddWaterMark(@"这是水印文字!!!!!", @"D:\20.jpg", @"D:\WaterMark", "");
         }
 
         /// <summary>
@@ -27,7 +27,6 @@ namespace WaterMark
 
 
             }
-
             string res = string.Empty;
             string schar = "";
             switch (schar)
